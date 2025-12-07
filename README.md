@@ -1,1 +1,1 @@
-GenAI Literature Chatbot – Phase 1
+GenAI Literature Chatbot
